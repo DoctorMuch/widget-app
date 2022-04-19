@@ -19,6 +19,10 @@ const items = [
   {
     title: "Who should use React?",
     content: "Anyone who appreciates functional JS coding"
+  },
+  {
+    title: "How is React different from previous webpacks?",
+    content: "It is more responsive, and using the VDOM prevents unnecessary rendering common to earlier tech."
   }
 ];
 
